@@ -1,4 +1,7 @@
 # Detecção de Animais com Visão Computacional em Imagens de Câmeras-Trap
+<p align="center">
+  <img src="image.png" width="300"/>
+</p>
 Projeto de detecção automatizada de animais em imagens de armadilhas fotográficas (câmeras-trap) utilizando as ferramentas MegaDetector e YOLOv5. Utilizado para objetivos como monitorar a biodiversidade de forma eficiente, identificando automaticamente os animais presentes nas imagens coletadas.
 
 ## Funcionalidades
