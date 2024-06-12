@@ -1,0 +1,144 @@
+{
+ "images": [
+  {
+   "file": "S1_D05_R4_PICT0075.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.00695,
+     "bbox": [
+      0,
+      0.6328,
+      0.004394,
+      0.02669
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.00954,
+     "bbox": [
+      0.4335,
+      0.6132,
+      0.007324,
+      0.008463
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0324,
+     "bbox": [
+      0.3574,
+      0.6048,
+      0.006835,
+      0.009765
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0875,
+     "bbox": [
+      0.05029,
+      0.6223,
+      0.02294,
+      0.01757
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.212,
+     "bbox": [
+      0.2202,
+      0.6393,
+      0.02783,
+      0.02604
+     ]
+    }
+   ]
+  },
+  {
+   "file": "download.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.831,
+     "bbox": [
+      0.5034,
+      0.4795,
+      0.3401,
+      0.2397
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.928,
+     "bbox": [
+      0,
+      0.3391,
+      0.3843,
+      0.4619
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ee402f0f1423053b39dda1fb8a0f12d8.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.935,
+     "bbox": [
+      0.4789,
+      0.3217,
+      0.1552,
+      0.4586
+     ]
+    }
+   ]
+  },
+  {
+   "file": "jaguatirica-leonardo-mercon-2-conexao-planeta-800x445-1.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.09875,
+      0.2921,
+      0.4437,
+      0.5617
+     ]
+    }
+   ]
+  },
+  {
+   "file": "paca.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.938,
+     "bbox": [
+      0.3138,
+      0.623,
+      0.1809,
+      0.205
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2023-11-22 06:27:48",
+  "format_version": "1.3",
+  "detector": "unknown",
+  "detector_metadata": {
+   "megadetector_version": "unknown",
+   "typical_detection_threshold": 0.5,
+   "conservative_detection_threshold": 0.25
+  }
+ }
+}
